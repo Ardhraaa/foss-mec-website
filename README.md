@@ -7,7 +7,6 @@ Welcome to the **FOSS MEC Website**! This website is created for the promotion o
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation Instructions](#installation-instructions)
-- [Usage](#usage)
 
 ## Project Overview
 This website serves as a platform for promoting open-source initiatives and events at MEC. It provides a clean, modern, and responsive layout with key information about the **FOSS MEC** foundation, upcoming events, a gallery of past events, and links to social media channels.
