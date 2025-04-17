@@ -2,6 +2,9 @@
 
 Welcome to the **FOSS MEC Website**! This website is created for the promotion of the **Free and Open Source Software (FOSS)** ecosystem within the **Model Engineering College (MEC)**. It includes various sections such as events, a gallery, and more, aimed at enhancing awareness and engagement with the open-source community.
 
+## Live site 
+https://foss-mec-dun.vercel.app/
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
